@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seema Yadav</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align ="right" alt="coding" width="400" src=https://raw.githubusercontent.com/seemayadav09/seemayadav09/main/screenshot_2025-02-10.png
+<img align ="right" alt="coding" width="400" src=https://raw.githubusercontent.com/seemayadav09/seemayadav09/main/coding.png
 >
 
 - 🌱 I’m currently working as Full Stack Developer in Bengaluru, Karnataka, India
