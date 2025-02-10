@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **seemayadav982002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17iiB57RRLxEQT-XkL4-x6SCUwpyeRiS7/view?usp=sharing](https://drive.google.com/file/d/17iiB57RRLxEQT-XkL4-x6SCUwpyeRiS7/view?usp=sharing)
+- 📄 Know about my experiences, skills, projects [https://drive.google.com/file/d/17iiB57RRLxEQT-XkL4-x6SCUwpyeRiS7/view?usp=sharing](https://drive.google.com/file/d/17iiB57RRLxEQT-XkL4-x6SCUwpyeRiS7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
